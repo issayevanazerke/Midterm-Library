@@ -1,0 +1,79 @@
+.w-100{
+    width: 1280px;
+    height: 670px;
+}
+.featurette-heading{
+    margin-left: 15px;
+}
+.lead{
+    margin-left: 10px;
+}
+.col-md-7{
+    margin-top: 40px;
+}
+.featurette-divider{
+    margin-top: 40px;
+}
+.row{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.col-md-5-first{
+    content:url(114.jpg);
+    width:350px;
+    height:450px;  
+}
+.order-md-1{
+    content:url(115.jpg);
+    width:350px;
+    height:450px;  
+}
+.col-md-5-third {
+    content:url(116.jpg);
+    width:350px;
+    height:450px;
+}
+.card-first{
+    content:url(117.jpg);  
+    width:352px;
+    height:377.67px;
+} 
+.card-img-top{
+    width: 340px;
+    height: 190px;
+}
+.databases{
+    margin-left: 80px;
+}
+.col-lg-8{
+    margin-left: 50px;
+}
+.form-check{
+    margin-left: 50px;
+}
+.btn-lg{
+    height: 50px;
+    margin-top: 20px;
+}
+.col-lg-4{
+    margin-top: 30px;
+}
+.bookname{
+    margin-top: 20px;
+}
+.bd-placeholder-img{
+    content:url(b1.jpg); 
+    width: 140;
+    height: 140;
+}
+.card-img-top-books{
+    width: 340px;
+    height: 500px;
+}
+.mb-3{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.card{
+    margin-left: 30px;
+}
